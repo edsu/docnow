@@ -92,7 +92,7 @@
     "react-router": "^5.2.1",
     "react-router-dom": "^5.3.0",
     "react-twitter-embed": "^3.0.3",
-    "redis": "^2.8.0",
+    "redis": "^3.1.1",
     "redux": "^4.1.2",
     "redux-thunk": "^2.4.1",
     "remark-gfm": "^3.0.1",
